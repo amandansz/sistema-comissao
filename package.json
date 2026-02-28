@@ -1,0 +1,12 @@
+{
+  "name": "sistema-comissao",
+  "version": "1.0.0",
+  "description": "[![JavaScript](https://img.shields.io/badge/Linguagem-JavaScript-yellow)](https://www.javascript.com/)\r [![Node.js](https://img.shields.io/badge/Plataforma-Node.js-green)](https://nodejs.org/)\r [![Status](https://img.shields.io/badge/Status-Em%20andamento-yellow)]()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

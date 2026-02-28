@@ -1,26 +1,6 @@
 function calcularComissao() {
 
-    const vendedores = [
-        {
-            nome: "Erick",
-            nivel: "Pleno",
-            vendasDoMes: 50000,
-            metaDoMes: 30000,
-        },
-        {
-            nome: "Maria",
-            nivel: "Senior",
-            vendasDoMes: 70000,
-            metaDoMes: 30000
-        },
-        {
-            nome: "Gabriel",
-            nivel: "Junior",
-            vendasDoMes: 20000,
-            metaDoMes: 30000
-        }
-
-    ]
+    const vendedores = require('./data.json');
 
     const niveis = {
         junior: 0.05,
